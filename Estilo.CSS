@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(231, 231, 240, 0);
+margin: 0;
+
+}
+#capa{
+    
+    text-shadow: rgb(8, 233, 241) 2px 2px;
+    box-sizing: border-box;
+    background-size: cover;
+    height: 300;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 110px;
+    background:url(imagens/pexels-photo-1452701.jpeg)
+
+
+
+}
+h1{
+    
+    padding-top: 10px;
+    
+    color: rgb(15, 15, 15);
+    font-size: xx-small
+    
+    box-sizing: border-box;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    height: 200
+    
+}
+h2{
+    border-top: limegreen;
+    margin: 0;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: ;
+    color: rgb(8, 8, 8);
+}
+p{
+    color: rgb(10, 10, 10);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icone{
+    width: 80px;
+    height: 80px;
